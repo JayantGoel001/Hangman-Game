@@ -14,7 +14,7 @@ After you've revealed several letters, you may be able to guess what the answer 
 Be warned, every time you guess a letter wrong you loose a life and the hangman begins to appear, piece by piece.
 
 Solve the puzzle before the hangman dies.
-
+<br><br><br><br>
 Illustrating a player trying to guess the word hangman using a strategy based solely on letter frequency. As the player continues, a part of the stick figure on the noose is added. Once a full body is drawn, the game is over, and the player lost.
 
 0<br>
