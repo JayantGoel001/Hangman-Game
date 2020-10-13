@@ -27,7 +27,7 @@ Word:	hangman
 Guess:	E
 Misses:	
 1	
-<img src="https://github.com/CormacKrum/Hangman-Game/blob/master/Hangman-1.jpg" alt="Hangman Game"/>
+<img src="https://github.com/CormacKrum/Hangman-Game/blob/master/Hangman-1.png" alt="Hangman Game"/>
 Word:	_ _ _ _ _ _ _
 Guess:	T
 Misses:	e
