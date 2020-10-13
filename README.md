@@ -1,5 +1,5 @@
 # Hangman Game
-<a>
+<p>
 Hangman is an old school favorite, a word game where the goal is simply to find the missing word or words.
 
 You will be presented with a number of blank spaces representing the missing letters you need to find.
@@ -13,11 +13,7 @@ After you've revealed several letters, you may be able to guess what the answer 
 Be warned, every time you guess a letter wrong you loose a life and the hangman begins to appear, piece by piece.
 
 Solve the puzzle before the hangman dies.
-
-</a>
-<a>
-<img src="https://github.com/CormacKrum/Hangman-Game/blob/master/Hangman_game.jpg" alt="Hangman Game"/>
-</a>
+</p><a><img src="https://github.com/CormacKrum/Hangman-Game/blob/master/Hangman_game.jpg" alt="Hangman Game"/></a>
 
 The following example game illustrates a player trying to guess the word hangman using a strategy based solely on letter frequency. As the player continues, a part of the stick figure on the noose is added. Once a full body is drawn, the game is over, and the player lost.
 
@@ -26,11 +22,9 @@ The following example game illustrates a player trying to guess the word hangman
 <img src="https://github.com/CormacKrum/Hangman-Game/blob/master/Hangman-0.png" alt="Hangman Game"/>
 </a>
 <a>
-Word:	hangman
-
-Guess:	E
-
-Misses:
+Word:	hangman<br>
+Guess:	E<br>
+Misses:<br>
 </a>	
 1	
 <img src="https://github.com/CormacKrum/Hangman-Game/blob/master/Hangman-1.png" alt="Hangman Game"/>
