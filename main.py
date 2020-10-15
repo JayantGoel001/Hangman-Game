@@ -1,5 +1,4 @@
 import random
-import cv2
 
 
 def getWord():
@@ -22,7 +21,7 @@ guessed_word = ['_'] * len(word)
 
 
 def printFigure(guess):
-
+    pass
 
 
 while total_guess >= 0:
