@@ -62,7 +62,7 @@
       <updated>1602622727410</updated>
       <workItem from="1602622733117" duration="4469000" />
       <workItem from="1602661249477" duration="418000" />
-      <workItem from="1602677268876" duration="5226000" />
+      <workItem from="1602677268876" duration="6601000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1602623738450</created>
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602739943286</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial Commit">
+      <created>1602741753820</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602741753820</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,10 +131,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1602739941677">
+    <state x="330" y="0" key="CommitChangelistDialog2" timestamp="1602741752644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602739941677" />
+    <state x="330" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1602741752644" />
     <state x="631" y="310" key="Github.ShareDialog" timestamp="1602623050001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -136,28 +143,28 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="484" y="117" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1602623060204" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602741467014">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1602744738644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602741467014" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602741467013">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602744738644" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1602744738643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602741467013" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602741467012">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602744738643" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1602744738643">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602741467012" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602741467013">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602744738643" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1602744738644">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602741467013" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602744738644" />
     <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1602739951072">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1602739951072" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Hangman_Game$main.coverage" NAME="main Coverage Results" MODIFIED="1602741466980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hangman_Game$main.coverage" NAME="main Coverage Results" MODIFIED="1602744738607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
