@@ -1,4 +1,5 @@
 import random
+import cv2
 
 
 def getWord():
@@ -18,6 +19,12 @@ total_guess = 10
 misses = []
 valid_letters = 'qwertyuiopasdfghjklzxcvbnm'
 guessed_word = ['_'] * len(word)
+
+
+def printFigure(guess):
+
+
+
 while total_guess >= 0:
 
     print("Misses : ", end='')
@@ -40,6 +47,7 @@ while total_guess >= 0:
     else:
         total_guess -= 1
         misses.append(guessed_char)
+        printFigure(total_guess)
 
     print()
     if "_" not in guessed_word:
